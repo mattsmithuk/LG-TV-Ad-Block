@@ -7,7 +7,7 @@
 0.0.0.0 us.emp.lgsmartplatform.com
 0.0.0.0 us.lgeapi.com
 0.0.0.0 aic.nudge.lgtvcommon.com
-0.0.0.0 www.ueiwsp.com
+# 0.0.0.0 www.ueiwsp.com ## Needed for LG app store?
 0.0.0.0 unagi-na.amazon.com
 0.0.0.0 ipv6.unagi-na.amazon.com
 0.0.0.0 aic-gfts.lge.com
